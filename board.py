@@ -26,8 +26,8 @@ class Board:
 if __name__ == "__main__":
 
     # main program
-    heating = Board()
-    heating.print_gpio_details()
+    rpi = Board()
+    rpi.print_gpio_details()
 
 
 
